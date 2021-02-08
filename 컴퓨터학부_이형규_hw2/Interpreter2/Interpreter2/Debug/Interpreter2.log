@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\Vfly\source\repos\Interpreter2\Interpreter2\소스.cpp(283,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Interpreter2.vcxproj -> C:\Users\Vfly\source\repos\Interpreter2\Debug\Interpreter2.exe
