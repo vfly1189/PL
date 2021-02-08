@@ -1,0 +1,5 @@
+(MINUS 5 (IF (NEG -5) 5))
+(EQUAL (MINUS (IF 1 4) (POS -4)) (IF (MINUS 4 5) (IF 3 4)))
+(MINUS (POS -4) 6)
+(IF/THEN/ELSE (MINUS 7 8) (ADD 3 4) (MINUS (IF 1 3) 5))
+(ADD (MINUS (IF 9 8) 54) (POS 3))
